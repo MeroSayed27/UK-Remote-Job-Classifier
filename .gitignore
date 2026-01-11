@@ -1,0 +1,8 @@
+# Ignore system files
+*.jtx
+*.log
+*.blf
+*.TMContainer*
+AppData/
+*.pyc
+__pycache__/
